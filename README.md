@@ -38,22 +38,22 @@ func GetBio() Bio {
   </a>
 
   <a href="https://www.linkedin.com/in/juan-manuel-olaya-chave-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juan manuel olaya chavez's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/2946413/juan-manuel-olaya-chave?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="juan manuel olaya chavez's Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackexchange.com/users/3525056/juan-manuel-olaya-chave">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  <a href="https://stackexchange.com/users/3525056/juan-manuel-olaya-chavez">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="juan manuel olaya chavez's Stack Exchange Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="jua manuel olaya chavez's StackShare Profile" height="30" width="30">
+  <a href="https://stackshare.io/olaya">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="juan manuel olaya chavez's StackShare Profile" height="30" width="30">
   </a>
   
-  <a href="https://gitlab.com/AnhellO">
+  <a href="https://gitlab.com/olaya">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="juan manuel olaya chavez's GitLab Profile" height="30" width="30">
   </a>
   
@@ -70,7 +70,7 @@ func GetBio() Bio {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
+  <a href="https://stackshare.io/olaya/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="olaya :: StackShare" />
   </a>
 </p>
@@ -79,15 +79,15 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="olaya :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{olaya}/count.svg" alt="olaya :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="olaya :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="olaya :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
