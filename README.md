@@ -1,4 +1,4 @@
-# olaya juan
+#  juan olaya
 
 <h2 align="center">About me</h2>
 
@@ -83,11 +83,11 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="olaya :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaya&langs_count=10&theme=tokyonight&layout=compact" alt="olaya :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="olaya :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olaya&show_icons=true&theme=synthwave" alt="olaya :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
