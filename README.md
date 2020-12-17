@@ -127,6 +127,8 @@ func GetBio() Bio {
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+  ![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
 ---
 
 ⭐️ From [@gmail](https://github.com/olaya)
