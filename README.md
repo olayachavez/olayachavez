@@ -1,6 +1,8 @@
 #  juan olaya
 
-[![](https://www.google.com/search?q=imagen+de+jin+kazama&rlz=1C1LOQA_enPE826PE826&sxsrf=ALeKk003yp4SBHiqXKjPZn_FjWvxe-JJVA:1608178978617&tbm=isch&source=iu&ictx=1&fir=PeBzrj08Nd1HrM%252CXE9hjmIVn0_BmM%252C_&vet=1&usg=AI4_-kRwGYl9j707dkLbYnyhueN5Rsubcw&sa=X&ved=2ahUKEwjAlIXGldTtAhXEuFkKHdcQC5sQ9QF6BAgTEAE&biw=1093&bih=454#imgrc=PeBzrj08Nd1HrM)
+<p align="center">
+  <img src="https://www.google.com/search?q=imagen+de+jin+kazama&rlz=1C1LOQA_enPE826PE826&sxsrf=ALeKk003yp4SBHiqXKjPZn_FjWvxe-JJVA:1608178978617&tbm=isch&source=iu&ictx=1&fir=PeBzrj08Nd1HrM%252CXE9hjmIVn0_BmM%252C_&vet=1&usg=AI4_-kRwGYl9j707dkLbYnyhueN5Rsubcw&sa=X&ved=2ahUKEwjAlIXGldTtAhXEuFkKHdcQC5sQ9QF6BAgTEAE&biw=1093&bih=454#imgrc=PeBzrj08Nd1HrM" width="30px" height="30px">
+</p>
 <h2 align="center">About me</h2>
 
 ```golang
